@@ -33,6 +33,15 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Dlg_Section.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_IAT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DLG_EAT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CatPEID.cpp">
@@ -42,6 +51,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Dlg_Section.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_IAT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DLG_EAT.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
